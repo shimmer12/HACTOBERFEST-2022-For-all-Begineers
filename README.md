@@ -12,7 +12,8 @@
 * Clone your fork down to your local machine
 
 ```markdown
-git clone https://github.com/your-username/hacktoberfest.git
+git clone https://github.com/your-username/HACTOBERFEST-2022-For-all-Begineers
+
 ```
 
 * Create a branch
